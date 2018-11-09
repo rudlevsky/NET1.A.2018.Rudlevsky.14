@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonachiGenerator", "FibonachiGenerator\FibonachiGenerator.csproj", "{3B3A36C4-B07B-4B6A-B112-7BCCCAFBC200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generation.Tests", "Generation.Tests\Generation.Tests.csproj", "{2728BFFD-B671-403E-97A4-965909EFE4BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B3A36C4-B07B-4B6A-B112-7BCCCAFBC200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3A36C4-B07B-4B6A-B112-7BCCCAFBC200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3A36C4-B07B-4B6A-B112-7BCCCAFBC200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3A36C4-B07B-4B6A-B112-7BCCCAFBC200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2728BFFD-B671-403E-97A4-965909EFE4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2728BFFD-B671-403E-97A4-965909EFE4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2728BFFD-B671-403E-97A4-965909EFE4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2728BFFD-B671-403E-97A4-965909EFE4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6590823-D249-42A3-8D01-C3ACC28C7838}
+	EndGlobalSection
+EndGlobal
